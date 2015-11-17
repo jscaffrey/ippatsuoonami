@@ -21,3 +21,4 @@ wrinkles in his button-down shirt, which he had worn for the last three days.
 ssh_exchange_identification: Connection closed by remote host
 
 	He sighed.
+	She leaned over the table to peek at his computer.
